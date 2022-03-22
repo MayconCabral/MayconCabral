@@ -2,10 +2,10 @@
 [![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconCabral&theme=codeSTACKr&show_icons=true)](https://github.com/MayconCabral/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCabral&layout=compact&theme=codeSTACKr)](https://github.com/MayconCabral/github-readme-stats)
 
 <a href="https://github.com/MayconCabral/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayconCabral&theme=codeSTACKr&show_icons=true" />
+  <img width="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MayconCabral&theme=codeSTACKr&show_icons=true" />
 </a>
 <a href="https://github.com/MayconCabral/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCabral&layout=compact&theme=codeSTACKr" />
+  <img width="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCabral&layout=compact&theme=codeSTACKr" />
 </a>
 
 <!--
