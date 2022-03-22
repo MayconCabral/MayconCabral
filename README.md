@@ -1,5 +1,11 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)](https://github.com/MayconCabral/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true)](https://github.com/MayconCabral/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MayconCabral&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MayconCabral&repo=convoychat" />
+</a>
 <!--
 **MayconCabral/MayconCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
