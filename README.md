@@ -49,4 +49,4 @@ src="https://img.shields.io/github/followers/MayconCabral?logo=github&style=for-
 </div>
 
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
