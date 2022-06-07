@@ -5,7 +5,7 @@ Hi 👋 My name is Maycon Cabral.
 Becoming full stack
 -------------------
 
-I've been learning to code for a few months after switching career. I started with Front-End, learning JavaScript, React, CSS, JEST, HTML. Now I am learning Back-End: Docker, SQL, Node and MongoDB.
+I've been learning to code for a few months. I started with Front-End, learning JavaScript, React, CSS, JEST, HTML. Now I am learning Back-End: Docker, SQL, Node and MongoDB.
 
 * 🌍  I'm based in Brasília
 * 🖥️  See my portfolio at [correiacabral.com a website with pure JavaScript only](http://www.correiacabral.epizy.com)
