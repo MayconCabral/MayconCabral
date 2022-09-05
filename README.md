@@ -9,7 +9,7 @@ I've been learning to code for a few months. I started with Front-End, learning 
 
 * 🌍  I'm based in Brasília
 * 🖥️  See my portfolio at [correiacabral.com a website with pure JavaScript only](http://www.correiacabral.epizy.com)
-* 🧠  I'm learning Node, Docker, SQL, MongoDB, GSAP
+* 🧠  I'm learning Node, Docker, SQL, GSAP
 * 🤝  I'm open to collaborating on Projects that consume API using framework React Hooks.
 * ⚡  I'm secretly Spiderman... but don't tell anyone
 
@@ -29,7 +29,6 @@ src="https://img.shields.io/github/followers/MayconCabral?logo=github&style=for-
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
