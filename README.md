@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn code after 30's.*
+Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn to code after 30's.*
 ===============================
 
 After learning the human's languages - :uk: English :uk: and :cn: Mandarim :cn:.
