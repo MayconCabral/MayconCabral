@@ -1,8 +1,8 @@
 
-Hi 👋 My name is Maycon Cabral and I'm telling you: It is possible to learn code after 30's.
+Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn code after 30's.*
 ===============================
 
-After learning the human's languages - English and Mandarim.
+After learning the human's languages - :uk: English :uk: and :cn: Mandarim :cn:.
 -------------------
 ![Left side: a man walking on the Great Wall at China. Right side: a standing man and behind him the Tower Bridge at London.](https://github.com/MayconCabral/test/blob/main/languages.jpg)
 -------------------
