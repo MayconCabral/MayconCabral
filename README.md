@@ -11,7 +11,7 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 
 </br>
 </br>
-* 🖥️   [Do you want to know more 想了解更多吗](http://www.correiacabral.epizy.com)<a href="https://www.correiacabral.epizy.com">Do you want to know more 想了解更多吗</a>
+* 🖥️   <a href="https://www.correiacabral.epizy.com">Do you want to know more? 想了解更多吗?</a>
 </br>
 </br>
 </br>
