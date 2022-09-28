@@ -1,18 +1,16 @@
 
 <h2>Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn to code after 30's.</h2>
 <h2>你好 👋 我叫麦克让我来告诉你：30岁之后还可以能学到编写代码</h2>
-===============================
 
 <img align="right" src="https://github.com/MayconCabral/test/blob/main/languages.jpg" width=55% alt="Left side: a man walking on the Great Wall at China. Right side: a standing man and behind him the Tower Bridge at London.">
 After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:.</br>
 学好一些人民的语言之后 - :uk: 英语 :uk: 和 :cn: 中文 :cn: 。 
 <h4>IT IS TIME TO LEARN THE MACHINE'S LANGUAGES!!!!</h4>
 <h4>时间到了，该学习计算机语言！！！</h4>
-</br>
-</br>
 
+</br>
+</br>
 * 🖥️   [Do you want to know more? 想了解更多吗? ](http://www.correiacabral.epizy.com)
-
 </br>
 </br>
 </br>
