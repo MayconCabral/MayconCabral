@@ -4,17 +4,15 @@ Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn t
 ===============================
 
 <img align="right" src="https://github.com/MayconCabral/test/blob/main/languages.jpg" width=40% alt="Left side: a man walking on the Great Wall at China. Right side: a standing man and behind him the Tower Bridge at London.">
-After learning the human's languages - :uk: English :uk: and :cn: Mandarim :cn:.</br>
-学好人民的语言之后 - :uk: 英语 :uk: 和 :cn: 中文 :cn: 。</br>  
+After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:.</br>
+学好一些人民的语言之后 - :uk: 英语 :uk: 和 :cn: 中文 :cn: 。</br>  
 -------------------
 <h4>IT IS TIME TO LEARN THE MACHINE'S LANGUAGES!!!!</h4></br>
 <h4>时间到了，该学习计算机语言！！！</h4>
 
 
-* 🌍  I'm based in Brasília, Brazil. :brazil:
-* 🖥️  See my portfolio at [correiacabral.com a website with Vanilla JavaScript](http://www.correiacabral.epizy.com)
-* 🤝  I'm open to collaborating on Projects that consume API using framework React.
-* ⚡  I'm secretly Spiderman... but don't tell anyone :shushing_face: , please! Because code and save the world at the same time... As My uncle told me: "With great power comes great responsibility."
+* 🖥️   [Do you want to know more? 想了解更多吗? ](http://www.correiacabral.epizy.com)
+
 
 <a href="https://www.github.com/MayconCabral" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MayconCabral?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
