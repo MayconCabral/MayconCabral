@@ -6,7 +6,7 @@ Hi 👋 My name is Maycon Cabral and I'm telling you: *It is possible to learn t
 <img align="right" src="https://github.com/MayconCabral/test/blob/main/languages.jpg" width=40% alt="Left side: a man walking on the Great Wall at China. Right side: a standing man and behind him the Tower Bridge at London.">
 After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:.</br>
 学好一些人民的语言之后 - :uk: 英语 :uk: 和 :cn: 中文 :cn: 。</br>  
-<h4>IT IS TIME TO LEARN THE MACHINE'S LANGUAGES!!!!</h4></br>
+<h4>IT IS TIME TO LEARN THE MACHINE'S LANGUAGES!!!!</h4>
 <h4>时间到了，该学习计算机语言！！！</h4>
 
 
