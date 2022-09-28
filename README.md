@@ -15,8 +15,6 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 </br>
 </br>
 </br>
-</br>
-</br>
 
 <h3 align="left">Languages and Tools:</h3> 
 
