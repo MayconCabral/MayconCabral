@@ -1,6 +1,6 @@
 
-<h2>Hi 👋 My name is Maycon Cabral and I'm telling you: <bold>It is possible to learn to code after 30's.</bold></h2>
-<h2>你好 👋 我叫麦克让我来告诉你：<bold>30岁之后还可以能学到编写代码</bold></h2>
+<h2>Hi 👋 My name is Maycon Cabral and I'm telling you: <strong>It is possible to learn to code after 30's.</strong></h2>
+<h2>你好 👋 我叫麦克让我来告诉你：<strong>30岁之后还可以能学到编写代码</strong></h2>
 </br>
 
 <img align="right" src="https://github.com/MayconCabral/test/blob/main/languages.jpg" width=55% alt="Left side: a man walking on the Great Wall at China. Right side: a standing man and behind him the Tower Bridge at London.">
