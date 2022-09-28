@@ -14,8 +14,9 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 
 </br>
 </br>
-<a href="https://www.github.com/MayconCabral" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MayconCabral?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</br>
+</br>
+</br>
 
 <h3 align="left">Languages and Tools:</h3> 
 
