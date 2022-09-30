@@ -50,9 +50,7 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 </div>
   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayconCabral&color=brightgreen" />
-  <img src="https://badges.pufler.dev/repos/MayconCabral" />
-  <img src="https://badges.pufler.dev/commits/monthly/MayconCabral" />
+  <img src="https://komarev.com/ghpvc/?username=MayconCabral&color=brightgreen" />  
 </div>
 
 
