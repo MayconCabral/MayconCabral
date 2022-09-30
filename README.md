@@ -35,11 +35,9 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/MayconCabral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a> <a href="http://www.instagram.com/michaelmcfly_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/correiacabral" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
  <a href="http://www.instagram.com/michaelmcfly_/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
  
- <a href="https://www.linkedin.com/in/correiacabral" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
+ <a href="https://www.linkedin.com/in/correiacabral" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width='100'/></a> 
  
  
 
