@@ -36,7 +36,6 @@ After learning some human's languages - :uk: English :uk: and :cn: Mandarim :cn:
 
 ### Socials
 
- <a href="http://www.instagram.com/michaelmcfly_/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
  
  <a href="https://www.linkedin.com/in/correiacabral" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
  
