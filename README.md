@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MayconCabral/randomimgs/main/mike.gif">
+  <img style="border-radius:50%" src="https://raw.githubusercontent.com/MayconCabral/randomimgs/main/mike.gif">
 </p>
 
